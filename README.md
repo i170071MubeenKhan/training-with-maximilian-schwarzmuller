@@ -1,4 +1,4 @@
-# ReactJS Course
+# Basic Todo App
 
 **Description:** *This app contains different components and have click listerner functionalities on buttons*
 
